@@ -54,9 +54,10 @@ Our long-term vision is to make **PokerFi** the global bridge between the world 
 
 ---
 
-## 👥 Team
+## 🧠 Team
 
-The project is led by **Renato Maia Gurjão**, professional poker player and CEO of PokerFi Serviços Digitais Ltda (CNPJ 43.316.008/0001-74).  
+The project is officially managed by **PokerFi Serviços Digitais Ltda.**, a legally registered company operating with transparency, compliance, and long-term governance principles.
+
 PokerFi is supported by a global team of developers, marketers, and blockchain specialists committed to building the future of crypto gaming.
 
 ---
